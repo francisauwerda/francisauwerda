@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francisauwerda
-- 👀 I’m interested in exercise and dogs
+- 👀 I’m interested in exercise and health
 - 🌱 I’m currently learning how to do muscle ups
 - 💞️ I’m looking to collaborate on family tree software
 
